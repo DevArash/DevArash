@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevArash
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: arash.kazemieh@gmail.com
 
